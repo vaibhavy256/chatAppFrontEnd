@@ -201,7 +201,7 @@ const ChatPage = () => {
            <button className="dark:bg-purple-600 h-10 w-10  flex   justify-center items-center rounded-full">
                 <FaFileUpload size={20}/>
            </button>
-           <button onClick={sendMessage} className="dark:bg-orange-600 h-10 w-10  flex justify-center items-center rounded-full">
+           <button onClick={sendMessage} className="dark:bg-orange-500 h-10 w-10  flex justify-center items-center rounded-full">
                 <IoSend size={20} />
            </button>
         </div>  
